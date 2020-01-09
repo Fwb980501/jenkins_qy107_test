@@ -28,6 +28,7 @@ public class TestJenkinsController {
         map.put("code",200);
         map.put("message","success");
         map.put("jenkins","CI SoftWare");
+        map.put("死胖子" , "饿死了");
         return map;
     }
 }
